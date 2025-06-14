@@ -43,11 +43,11 @@ Here are some example flashcards generated from an input on the topic **Photosyn
 | Where does the Calvin cycle occur?                               | It takes place in the stroma of chloroplasts.                                              |
 | Why is photosynthesis important for life on Earth?               | It produces oxygen and glucose, supporting food chains and atmospheric balance.           |
 
-## Sample Execution (Real Input)
+## Sample Execution 
 
-- **Input Type**: PDF  
-- **Topic**: Photosynthesis – Physics
+- **Input Type**: Paste Input 
+- **Topic**: History
 - **Flashcards Generated**: 15 
-- **Export Formats**: [View CSV](sample_output/flashcards_physics.csv) | [View Anki TXT](sample_output/anki_flashcards_physics (2).txt)
+- **Export Formats**: [View CSV](sample_output/flashcards_history.csv) | [View Anki TXT](sample_output/anki_flashcards_history.txt)
 
 
