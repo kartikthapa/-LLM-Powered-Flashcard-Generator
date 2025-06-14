@@ -45,9 +45,9 @@ Here are some example flashcards generated from an input on the topic **Photosyn
 
 ## Sample Execution (Real Input)
 
-**Input Type**: PDF  
-**Topic**: Photosynthesis – Physics
-**Flashcards Generated**: 15 
-**Export Formats**: [View CSV](sample_output/flashcards_physics.csv) | [View Anki TXT](sample_output/anki_flashcards_physics (2).txt)
+- **Input Type**: PDF  
+- **Topic**: Photosynthesis – Physics
+- **Flashcards Generated**: 15 
+- **Export Formats**: [View CSV](sample_output/flashcards_physics.csv) | [View Anki TXT](sample_output/anki_flashcards_physics (2).txt)
 
 
