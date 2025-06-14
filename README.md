@@ -45,7 +45,7 @@ Here are some example flashcards generated from an input on the topic **Photosyn
 
 ## Sample Execution 
 
-- **Input Type**: Paste Input 
+- **Input Type**: Paste Input [View Input](sample_output/input.txt)
 - **Topic**: History
 - **Flashcards Generated**: 15 
 - **Export Formats**: [View CSV](sample_output/flashcards_history.csv) | [View Anki TXT](sample_output/anki_flashcards_history.txt)
