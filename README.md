@@ -29,3 +29,16 @@ pip install -r requirements.txt
 ### 3. Run the App
 ```bash
 streamlit run app.py
+ ```
+
+## Sample Flashcards Output
+
+Here are some example flashcards generated from an input on the topic **Photosynthesis**:
+
+| Question                                                         | Answer                                                                                     |
+|------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| What is photosynthesis?                                          | Photosynthesis is the process by which plants convert light energy into chemical energy.  |
+| What are the main stages of photosynthesis?                      | The light-dependent reactions and the Calvin cycle are the two main stages.               |
+| What is the function of chlorophyll in photosynthesis?           | Chlorophyll absorbs sunlight and initiates the light reactions in the chloroplast.        |
+| Where does the Calvin cycle occur?                               | It takes place in the stroma of chloroplasts.                                              |
+| Why is photosynthesis important for life on Earth?               | It produces oxygen and glucose, supporting food chains and atmospheric balance.           |
