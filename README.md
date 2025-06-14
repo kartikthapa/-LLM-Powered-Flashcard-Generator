@@ -19,3 +19,13 @@ This is a Python + Streamlit-based app that uses a large language model (`Flan-T
 ```bash
 git clone https://github.com/kartikthapa/LLM-Powered-Flashcard-Generator.git
 cd LLM-Powered-Flashcard-Generator
+
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+
+```
+### 3. Run the App
+```bash
+streamlit run app.py
