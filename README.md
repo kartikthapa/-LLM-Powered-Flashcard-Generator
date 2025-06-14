@@ -42,3 +42,12 @@ Here are some example flashcards generated from an input on the topic **Photosyn
 | What is the function of chlorophyll in photosynthesis?           | Chlorophyll absorbs sunlight and initiates the light reactions in the chloroplast.        |
 | Where does the Calvin cycle occur?                               | It takes place in the stroma of chloroplasts.                                              |
 | Why is photosynthesis important for life on Earth?               | It produces oxygen and glucose, supporting food chains and atmospheric balance.           |
+
+## Sample Execution (Real Input)
+
+**Input Type**: PDF  
+**Topic**: Photosynthesis – Physics
+**Flashcards Generated**: 15 
+**Export Formats**: [View CSV](sample_output/flashcards_physics.csv) | [View Anki TXT](sample_output/anki_flashcards_physics (2).txt)
+
+
